@@ -15,19 +15,27 @@ Our web application, Accelerate, is a database-driven web application that helps
 
 # Hardware Requirements 
 
-•	Processor: x64 compatible processor with 1.7 GHz Clock Speed 
+•	Processor: x64 compatible processor with 1.7 GHz Clock Speed
+
 •	RAM: 1 GB or greater 
+
 •	Hard Disk: 20 GB or grater
+
 •	Monitor: VGA/SVGA 
+
 •	Keyboard: 104 keys standard 
+
 •	Mouse: 2/3 button. Optical/Mechanical.
 
 
 # Software Requirements
 
 •	Operating System: Windows 7/8/10
-•	Front End: Django 
+
+•	Front End: Django
+
 •	Rear End: PostgreSQL
+
 
 # Screen Shots
 ![image](https://user-images.githubusercontent.com/53873995/186120540-fcf4ab2d-8c94-4062-a762-ffa77bda8106.png)
